@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Saloni Tiwari
 
-<!--
-**25f2005869-glitch/25f2005869-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 *Python Learner*  
+📘 Daily GitHub practice  
+🎯 Focused on building consistency  
+🇮🇳 India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 What I'm doing
+- Learning Python from basics
+- Practicing daily with small programs
+- Using GitHub to track progress
+
+---
+
+## 🛠️ Skills (Learning)
+- Python
+- Git & GitHub
+- Problem solving
+
+---
+
+## 📊 GitHub Goal
+> One day, one commit – consistency over perfection
+
+---
+
+✨ Learning step by step. Improving every day.
