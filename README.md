@@ -11,9 +11,7 @@
 - Learning Python fundamentals (loops, functions, data structures)
 - Maintaining a daily practice log on GitHub
 - Focusing on clarity, not speed 
-- 
-- 
-
+  
 
 ---
 
