@@ -7,10 +7,12 @@
 
 ---
 
-## 🔥 What I'm doing
-- Learning Python from basics
-- Practicing daily with small programs
-- Using GitHub to track progress
+## 🔥Learning Python fundamentals (loops, functions, data structures)
+Maintaining a daily practice log using GitHub
+Focusing on clarity, not speed 
+- 
+- 
+
 
 ---
 
