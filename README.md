@@ -7,9 +7,10 @@
 
 ---
 
-## 🔥Learning Python fundamentals (loops, functions, data structures)
-Maintaining a daily practice log using GitHub
-Focusing on clarity, not speed 
+##  What I'm doing
+- Learning Python fundamentals (loops, functions, data structures)
+- Maintaining a daily practice log on GitHub
+- Focusing on clarity, not speed 
 - 
 - 
 
