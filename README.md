@@ -150,7 +150,7 @@ Data Visualization Projects
 
 📌 GitHub commit consistency
 
-🔥 36+ Days Continuous Coding Streak
+🔥 50+ Days Continuous Coding Streak
 
 
 
@@ -177,7 +177,7 @@ python-daily-practice/
 ├── day_001.py
 ├── day_002.py
 ├── ...
-├── day_036.py
+├── day_050.py
 │
 ├── basics/
 ├── data_structures/
