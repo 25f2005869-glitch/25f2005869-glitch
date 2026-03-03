@@ -1,13 +1,17 @@
 👋 Hi, I'm Saloni Tiwari
+
 🎓 Python Learner | 📊 Aspiring Data Analyst | 💻 Daily Coding Practitioner
 📍 India
+
 🚀 About Me
 I am currently strengthening my foundations in Python programming and data analysis through disciplined daily practice and structured learning.
+
 My focus is on:
 Writing real code consistently
 Building logical clarity and problem-solving ability
 Learning data tools step-by-step
 Maintaining structured GitHub version control
+
 🛠️ Skills (Learning & Practicing)
 📊 Data Skills
 Microsoft Excel (Advanced)
