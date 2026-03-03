@@ -28,7 +28,7 @@ Object-Oriented Programming (Basics)
 Modules & Packages
 
 🔧 Tools & Workflow
-Git & GitHub
+Gitt & GitHub
 VS Code
 Jupyter Notebook
 
