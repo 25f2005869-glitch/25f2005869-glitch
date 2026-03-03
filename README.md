@@ -38,6 +38,7 @@ Logical Thinking
 Structured Learning Approach
 
 📚 Learning Phases
+
 ✅ Phase 1 — Python Foundations (Core Covered)
 Python Basics
 Loops & Conditionals
