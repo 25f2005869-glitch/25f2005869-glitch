@@ -1,176 +1,71 @@
-# 👋 Hi, I'm Saloni Tiwari
-
-🎓 Python Learner | 📊 Data Analysis Enthusiast | 💻 Daily Coding Practitioner
+👋 Hi, I'm Saloni Tiwari
+🎓 Python Learner | 📊 Aspiring Data Analyst | 💻 Daily Coding Practitioner
 📍 India
-
-
----
-
 🚀 About Me
-
-I am currently building strong foundations in Python Programming and Data Analysis through daily hands‑on practice and structured learning.
-
+I am currently strengthening my foundations in Python programming and data analysis through disciplined daily practice and structured learning.
 My focus is on:
-
-Writing real code daily
-
-Building logic & problem‑solving skills
-
-Learning data tools step‑by‑step
-
-Maintaining GitHub consistency
-
-
-
----
-
+Writing real code consistently
+Building logical clarity and problem-solving ability
+Learning data tools step-by-step
+Maintaining structured GitHub version control
 🛠️ Skills (Learning & Practicing)
-
 📊 Data Skills
-
 Microsoft Excel (Advanced)
-
 Pivot Tables
-
 Dashboards
-
 Data Cleaning
-
 Formulas & Functions
-
-
-
 💻 Programming
-
-Python
-
+Python (Core)
 File Handling
-
 Exception Handling
-
-Object Oriented Programming (Basics)
-
+Object-Oriented Programming (Basics)
 Modules & Packages
-
-Threading Basics
-
-
 🔧 Tools & Workflow
-
 Git & GitHub
-
 VS Code
-
 Jupyter Notebook
-
-
 🧠 Core Skills
-
 Problem Solving
-
-Logic Building
-
-Structured Learning
-
-
-
----
-
+Logical Thinking
+Structured Learning Approach
 📚 Learning Phases
-
-✅ Phase 1 — Python Foundations (Completed)
-
+✅ Phase 1 — Python Foundations (Core Covered)
 Python Basics
-
 Loops & Conditionals
-
 Data Structures
-
-Functions & Recursion
-
+Functions
 OOP Basics
-
 File Handling
-
 Exception Handling
-
-
-
----
-
 🔢 Phase 2 — Numerical Computing (In Progress)
-
 NumPy
-
 Array Operations
-
 Indexing & Slicing
-
 Mathematical Functions
-
-Linear Algebra Basics
-
-
-
----
-
+Vectorized Computation
 📊 Phase 3 — Data Analysis (Upcoming)
-
 Pandas
-
 Data Cleaning
-
 Data Manipulation
-
-Data Aggregation
-
-
-
----
-
+Aggregation & Analysis
 📈 Phase 4 — Visualization (Upcoming)
-
 Matplotlib
-
 Seaborn
-
 Data Visualization Projects
-
-
-
----
-
 📅 Progress Tracking
-
-📌 Daily coding practice
-
-📌 Structured topic progression
-
-📌 Real code implementations
-
-📌 GitHub commit consistency
-
-🔥 50+ Days Continuous Coding Streak
-
-
-
----
-
+Daily coding practice
+Structured topic progression
+Real code implementation
+GitHub version consistency
+50+ days of continuous coding discipline
 🎯 Learning Goal
-
-To build strong programming logic before moving into advanced domains like:
-
+To build strong programming logic and computational thinking before moving into advanced areas such as:
 Data Analysis
-
 Machine Learning
-
-Data Science Projects
-
-
-
----
-
+Applied Data Science Projects
 🗂️ Repository Structure
+Copy code
 
 python-daily-practice/
 │
@@ -186,51 +81,19 @@ python-daily-practice/
 ├── file_handling/
 ├── exception_handling/
 ├── numpy/
-
-
----
-
 🏆 GitHub Goals
-
-Maintain daily coding streak
-
-One day — one commit
-
-Build real‑world Python projects
-
-Upload Excel & Data Analysis projects
-
+Maintain daily coding discipline
+One day — one meaningful commit
+Build structured Python projects
+Upload Excel & Data Analysis work
 Document complete learning journey
-
 Stay consistent for 365+ days
-
-
-
----
-
 🔮 Future Plans
-
 Complete NumPy & Pandas
-
-Build Data Analysis Projects
-
+Build structured Data Analysis projects
 Learn SQL
-
-Start Visualization Projects
-
-Explore Machine Learning
-
-
-
----
-
+Start Visualization projects
+Explore Machine Learning fundamentals
 ⭐ Note
-
-This repository reflects my discipline and consistency in learning Python step‑by‑step through daily practice.
-
-If you find this journey inspiring, feel free to explore and learn along!
-
-
----
-
+This repository reflects my structured and disciplined journey of learning Python step-by-step through daily practice.
 ⭐ Consistency > Perfection
