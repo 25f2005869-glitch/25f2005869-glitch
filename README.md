@@ -89,7 +89,7 @@ Python (Core)
 - Daily coding practice  
 - Structured topic progression  
 - Version-controlled learning  
-- 50+ days of continuous coding consistency  
+- 70+ days of continuous coding consistency  
 
 ---
 
