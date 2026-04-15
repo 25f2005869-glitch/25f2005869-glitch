@@ -1,33 +1,36 @@
 # 👋 Hi, I'm Saloni Tiwari
 
-![Python](https://img.shields.io/badge/Python-Learning-blue?logo=python&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Beginner-informational)
-![Excel](https://img.shields.io/badge/Excel-Advanced-success?logo=microsoft-excel&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Learning-black?logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Learning-blue)
+![NumPy](https://img.shields.io/badge/NumPy-Completed-green)
+![Pandas](https://img.shields.io/badge/Pandas-In--Progress-orange)
+![Data Analysis](https://img.shields.io/badge/Data--Analysis-Beginner-yellow)
+![Excel](https://img.shields.io/badge/Excel-Advanced-brightgreen)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![GitHub](https://img.shields.io/badge/GitHub-Active-black)
 
-🎓 **Python Learner** | 📊 **Data Analysis (Beginner)** | 💻 **Daily Coding Practice**  
-📍 **India**  
-🧑‍🎓 **Currently:** *IIT Madras BS in Data Science — Foundation Level*
+🎓 Python Learner | 📊 Data Analysis (Beginner) | 💻 Daily Coding Practice  
+📍 India  
+🧑‍🎓 IIT Madras BS in Data Science — Foundation Level  
 
 ---
 
 ## 🚀 About Me
+
 I’m building strong fundamentals through daily hands-on practice and structured learning.
 
-**My focus is on:**
-- Writing code consistently  
-- Improving logical thinking  
-- Understanding errors through debugging  
-- Learning data tools step-by-step  
-- Maintaining GitHub discipline  
+- 💡 Writing code consistently  
+- 🧠 Improving logical thinking  
+- 🐞 Understanding errors through debugging  
+- 📊 Learning data tools step-by-step  
+- 📅 Maintaining GitHub discipline  
 
 ---
 
-## 🛠️ Skills (Currently Learning)
+## 🛠️ Tech Arsenal
 
 ### 💻 Programming
-**Python (Core)**
+![Python](https://img.shields.io/badge/Python-Core-blue)
+
 - Loops & Conditionals  
 - Data Structures  
 - Functions  
@@ -35,23 +38,31 @@ I’m building strong fundamentals through daily hands-on practice and structure
 - File Handling  
 - Exception Handling  
 
+---
+
 ### 📊 Data Skills
-**Microsoft Excel (Advanced)**
+![Excel](https://img.shields.io/badge/Excel-Advanced-green)
+![NumPy](https://img.shields.io/badge/NumPy-Completed-green)
+![Pandas](https://img.shields.io/badge/Pandas-Learning-orange)
+
+- Data Cleaning  
 - Pivot Tables  
 - Dashboards  
-- Data Cleaning  
-- Formulas & Functions  
+- Data Analysis  
 
-### 🔧 Tools
-- Git & GitHub  
-- VS Code  
-- Jupyter Notebook  
+---
+
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-Version--Control-orange)
+![GitHub](https://img.shields.io/badge/GitHub-Active-black)
+![VS Code](https://img.shields.io/badge/VS--Code-Editor-blue)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 
 ---
 
 ## 📚 Learning Journey
 
-### Phase 1 — Python Foundations (Core Covered)
+### ✅ Phase 1 — Python Foundations (Completed)
 - Python Basics  
 - Control Flow  
 - Data Structures  
@@ -60,53 +71,89 @@ I’m building strong fundamentals through daily hands-on practice and structure
 - File Handling  
 - Exception Handling  
 
-### Phase 2 — NumPy (In Progress)
+---
+
+### ✅ Phase 2 — NumPy (Completed)
 - Array Creation  
 - Indexing & Slicing  
 - Filtering & Searching  
-- Basic Mathematical Operations  
+- Mathematical Operations  
 
-### 🔜 Next Steps
-- Pandas  
-- Data Cleaning Projects  
-- Basic Data Visualization  
+---
+
+### 🚀 Phase 3 — Pandas (In Progress)
+- Series & DataFrame  
+- Data Cleaning  
+- Handling Missing Values  
+- GroupBy Operations  
+- Data Analysis  
+
+---
+
+## 🔜 Next Steps
+- Data Visualization (Matplotlib / Seaborn)  
+- Real-world Projects  
+- SQL Basics  
 
 ---
 
 ## ⭐ Featured Projects
-- **Basic Statistics Projects** — extra activities & mini projects (Statistics)  
-  https://github.com/25f2005869-glitch/basic-statistics-projects
 
-- **Python Fundamentals Practice** — core Python exercises  
-  https://github.com/25f2005869-glitch/python-fundamentals-practice
+📊 **Basic Statistics Projects**  
+https://github.com/25f2005869-glitch/basic-statistics-projects  
 
-- **Daily Python Practice** — consistent daily learning  
-  https://github.com/25f2005869-glitch/python--daily---practice
+🐍 **Python Fundamentals Practice**  
+https://github.com/25f2005869-glitch/python-fundamentals-practice  
 
-- **Excel Sales Dashboard** — pivot tables, charts & dashboarding  
-  https://github.com/25f2005869-glitch/excel-sales-dashboard-project
+📅 **Daily Python Practice**  
+https://github.com/25f2005869-glitch/python--daily---practice  
 
-- **Library Management System (Python)**  
-  https://github.com/25f2005869-glitch/Library-Management-System
+📊 **Excel Sales Dashboard**  
+https://github.com/25f2005869-glitch/excel-sales-dashboard-project  
 
-- **Pharmacy Billing System (Python)**  
-  https://github.com/25f2005869-glitch/pharmacy-billing-system
+🏥 **Library Management System (Python)**  
+https://github.com/25f2005869-glitch/Library-Management-System  
+
+💊 **Pharmacy Billing System (Python)**  
+https://github.com/25f2005869-glitch/pharmacy-billing-system  
+
+---
+
+## 📜 Certifications
+
+🎓 **Work Smarter with Microsoft Excel — Coursera**  
+📅 January 2026 | 📊 Score: 96.40%  
+
+🔗 https://www.coursera.org/account/accomplishments/verify/Y70M212V1374  
+
+---
+
+## 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=25f2005869-glitch&show_icons=true&theme=default)
+
+![Streak](https://streak-stats.demolab.com?user=25f2005869-glitch)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=25f2005869-glitch)
 
 ---
 
 ## 📅 Progress
-- Daily coding practice  
-- Structured topic progression  
-- Version-controlled learning  
-- ✅ **Day 93** of continuous coding consistency  
+
+- 📌 Daily coding practice  
+- 📌 Structured learning path  
+- 📌 Version-controlled development  
+- 🔥 **Day 93+ coding streak**  
 
 ---
 
 ## 🎯 Goal
-To build strong programming fundamentals before moving deeper into data analysis and machine learning concepts.
+
+To build strong programming fundamentals and transition into Data Analysis & Machine Learning.
 
 ---
 
 ## ⭐ Learning Philosophy
-**Consistency > Perfection**  
-**Clarity > Speed**
+
+- Consistency > Perfection  
+- Clarity > Speed
