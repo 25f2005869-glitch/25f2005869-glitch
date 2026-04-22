@@ -121,7 +121,7 @@ To become a **Data Analyst** and transition into **Machine Learning** with stron
 ## 🤝 Connect With Me
 
 📧 Email: (25f2005869@ds.study.iitm.ac.in)  
-🔗 LinkedIn: (in/saloni-tiwari-b15780373)
+🔗 LinkedIn: (https://www.linkedin.com/in/saloni-tiwari-b15780373/)
 
 ---
 
