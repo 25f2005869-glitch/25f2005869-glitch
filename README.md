@@ -16,16 +16,20 @@ I build strong fundamentals through daily coding, consistency, and structured le
 
 🔥 Tech Stack
 
-<p align="center">"Python" (https://img.shields.io/badge/Python-Core-blue?style=for-the-badge&logo=python)
-"Excel" (https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge&logo=microsoft-excel)
-"NumPy" (https://img.shields.io/badge/NumPy-Completed-green?style=for-the-badge&logo=numpy)
-"Pandas" (https://img.shields.io/badge/Pandas-In--Progress-orange?style=for-the-badge&logo=pandas)
-"Git" (https://img.shields.io/badge/Git-Version--Control-orange?style=for-the-badge&logo=git)
-"GitHub" (https://img.shields.io/badge/GitHub-Active-black?style=for-the-badge&logo=github)
-"VS Code" (https://img.shields.io/badge/VS--Code-Editor-blue?style=for-the-badge&logo=visualstudiocode)
-"Jupyter" (https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)
+## 🔥 Tech Stack
 
-</p>---
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-Core-blue?style=for-the-badge&logo=python)
+![Excel](https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge&logo=microsoft-excel)
+![NumPy](https://img.shields.io/badge/NumPy-Completed-green?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-In--Progress-orange?style=for-the-badge&logo=pandas)
+![Git](https://img.shields.io/badge/Git-Version--Control-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-Active-black?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS--Code-Editor-blue?style=for-the-badge&logo=visualstudiocode)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)
+
+</p>
 
 🔥 Current Focus
 
