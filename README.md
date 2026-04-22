@@ -1,5 +1,5 @@
-<!-- ===================== HEADER / BANNER ===================== --><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9FF&height=240&section=header&text=Saloni%20Tiwari&fontSize=48&fontAlignY=35&desc=Python%20Learner%20|%20Data%20Analysis%20|%20Consistency%20Driven&descAlignY=55&animation=fadeIn"/>
+<!-- ===================== HEADER ===================== --><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9FF&height=240&section=header&text=Saloni%20Tiwari&fontSize=48&fontAlignY=35&desc=Python%20Learner%20|%20Data%20Analysis%20|%20Consistency&descAlignY=55&animation=fadeIn"/>
 </p><p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00C9FF&center=true&vCenter=true&width=750&lines=Python+Learner;Future+Data+Analyst;100%2B+Days+Coding+Streak;IIT+Madras+BS+Data+Science"/>
 </p>---
@@ -10,90 +10,60 @@
 📍 India
 💻 Python Learner | 📊 Data Analysis
 
-I focus on discipline, consistency, and strong fundamentals through daily coding and structured learning.
+I build strong fundamentals through daily coding, consistency, and structured learning.
 
 ---
+
+🔥 Tech Stack
+
+<p align="center">"Python" (https://img.shields.io/badge/Python-Core-blue?style=for-the-badge&logo=python)
+"Excel" (https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge&logo=microsoft-excel)
+"NumPy" (https://img.shields.io/badge/NumPy-Completed-green?style=for-the-badge&logo=numpy)
+"Pandas" (https://img.shields.io/badge/Pandas-In--Progress-orange?style=for-the-badge&logo=pandas)
+"Git" (https://img.shields.io/badge/Git-Version--Control-orange?style=for-the-badge&logo=git)
+"GitHub" (https://img.shields.io/badge/GitHub-Active-black?style=for-the-badge&logo=github)
+"VS Code" (https://img.shields.io/badge/VS--Code-Editor-blue?style=for-the-badge&logo=visualstudiocode)
+"Jupyter" (https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)
+
+</p>---
 
 🔥 Current Focus
 
-- 🐼 Pandas (Data Analysis)
-- 📊 Data Cleaning & Transformation
-- 🧠 Problem Solving & Logical Thinking
-- 📅 Maintaining daily coding streak
-
----
-
-🛠️ Tech Stack
-
-💻 Programming
-
-"Python" (https://img.shields.io/badge/Python-Core-blue)
-
-- Loops & Conditionals
-- Data Structures
-- Functions
-- OOP (Basics)
-- File Handling
-- Exception Handling
-
----
-
-📊 Data Skills
-
-"Excel" (https://img.shields.io/badge/Excel-Advanced-green)
-"NumPy" (https://img.shields.io/badge/NumPy-Completed-green)
-"Pandas" (https://img.shields.io/badge/Pandas-In--Progress-orange)
-
-- Data Cleaning
-- Pivot Tables
-- Dashboards
-- Data Analysis
-
----
-
-⚙️ Tools & Platforms
-
-"Git" (https://img.shields.io/badge/Git-Version--Control-orange)
-"GitHub" (https://img.shields.io/badge/GitHub-Active-black)
-"VS Code" (https://img.shields.io/badge/VS--Code-Editor-blue)
-"Jupyter" (https://img.shields.io/badge/Jupyter-Notebook-orange)
+- 🐼 Pandas (In Progress)
+- 📊 Data Cleaning & Analysis
+- 🧠 Problem Solving
+- 📅 Daily Coding Discipline
 
 ---
 
 🚀 Projects
 
 🔹 Basic Statistics Projects
-Applied statistical concepts on datasets
 https://github.com/25f2005869-glitch/basic-statistics-projects
 
 🔹 Python Fundamentals Practice
-Core Python problem solving & structured learning
 https://github.com/25f2005869-glitch/python-fundamentals-practice
 
 🔹 Daily Python Practice
-Consistency-focused daily coding
 https://github.com/25f2005869-glitch/python--daily---practice
 
 🔹 Excel Sales Dashboard
-Interactive dashboard using Excel
 https://github.com/25f2005869-glitch/excel-sales-dashboard-project
 
 🔹 Library Management System
-OOP-based console application
 https://github.com/25f2005869-glitch/Library-Management-System
 
 🔹 Pharmacy Billing System
-File handling + real-world logic implementation
 https://github.com/25f2005869-glitch/pharmacy-billing-system
 
 ---
 
-🏅 Achievements
+🏆 Achievements
 
 - 🔥 100+ Days Coding Streak
-- 📊 Strong Excel & Data Handling Skills
-- 🧠 Consistent Problem Solving Practice
-- 🎯 Structured Learning Discipline
+- 📊 Strong Excel & Data Skills
+- 🧠 Daily Problem Solving Practice
+- 🎯 Consistent Learning Discipline
 
 ---
 
@@ -116,7 +86,7 @@ https://github.com/25f2005869-glitch/pharmacy-billing-system
 
 🎯 Goal
 
-To become a Data Analyst and gradually transition into Machine Learning.
+To become a Data Analyst and transition into Machine Learning.
 
 ---
 
@@ -125,16 +95,15 @@ To become a Data Analyst and gradually transition into Machine Learning.
 «Consistency > Perfection
 Clarity > Speed»
 
----  
+---
 
+🤝 Connect With Me
 
-## 🤝 Connect With Me
-
-📧 Email: (25f2005869@ds.study.iitm.ac.in)  
-🔗 LinkedIn: (https://www.linkedin.com/in/saloni-tiwari-b15780373/)
+📧 Email: 25f2005869@ds.study.iitm.ac.in
+🔗 LinkedIn: https://www.linkedin.com/in/saloni-tiwari-b15780373/
 
 ---
 
 <p align="center">
-  🔥 Building in public | Growing every day 🚀
+  🚀 Building in public | Growing every day
 </p>
