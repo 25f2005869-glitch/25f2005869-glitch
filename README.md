@@ -1,32 +1,35 @@
-# 👋 Hi, I'm Saloni Tiwari
+<!-- ===================== HEADER / BANNER ===================== -->
 
-![Python](https://img.shields.io/badge/Python-Learning-blue)
-![NumPy](https://img.shields.io/badge/NumPy-Completed-green)
-![Pandas](https://img.shields.io/badge/Pandas-In--Progress-orange)
-![Data Analysis](https://img.shields.io/badge/Data--Analysis-Beginner-yellow)
-![Excel](https://img.shields.io/badge/Excel-Advanced-brightgreen)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
-![GitHub](https://img.shields.io/badge/GitHub-Active-black)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9FF&height=250&section=header&text=Saloni%20Tiwari&fontSize=50&fontAlignY=35&desc=Python%20Learner%20|%20Data%20Analysis%20|%20Consistency%20Driven&descAlignY=55&animation=fadeIn"/>
+</p>
 
-🎓 Python Learner | 📊 Data Analysis (Beginner) | 💻 Daily Coding Practice  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00C9FF&center=true&vCenter=true&width=800&lines=Python+Developer+in+Progress;Future+Data+Analyst;Daily+Coding+Streak+🔥;IIT+Madras+BS+Data+Science"/>
+</p>
+
+---
+
+## 👋 About Me
+
+🎓 IIT Madras BS in Data Science (Foundation Level)  
 📍 India  
-🧑‍🎓 IIT Madras BS in Data Science — Foundation Level  
+💻 Python Learner | 📊 Data Analysis (Beginner)  
+
+I focus on **discipline, consistency, and strong fundamentals** through daily coding and structured learning.
 
 ---
 
-## 🚀 About Me
+## 🔥 Current Focus
 
-I’m building strong fundamentals through daily hands-on practice and structured learning.
-
-- 💡 Writing code consistently  
-- 🧠 Improving logical thinking  
-- 🐞 Understanding errors through debugging  
-- 📊 Learning data tools step-by-step  
-- 📅 Maintaining GitHub discipline  
+- 📌 Python Mastery  
+- 📊 Data Analysis using Pandas  
+- 🧠 Logical Thinking & Problem Solving  
+- 📅 Maintaining 100+ Days Coding Streak  
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 ### 💻 Programming
 ![Python](https://img.shields.io/badge/Python-Core-blue)
@@ -52,7 +55,7 @@ I’m building strong fundamentals through daily hands-on practice and structure
 
 ---
 
-### ⚙️ Tools
+### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-Version--Control-orange)
 ![GitHub](https://img.shields.io/badge/GitHub-Active-black)
 ![VS Code](https://img.shields.io/badge/VS--Code-Editor-blue)
@@ -60,100 +63,68 @@ I’m building strong fundamentals through daily hands-on practice and structure
 
 ---
 
-## 📚 Learning Journey
+## 🚀 Projects
 
-### ✅ Phase 1 — Python Foundations (Completed)
-- Python Basics  
-- Control Flow  
-- Data Structures  
-- Functions  
-- OOP Basics  
-- File Handling  
-- Exception Handling  
-
----
-
-### ✅ Phase 2 — NumPy (Completed)
-- Array Creation  
-- Indexing & Slicing  
-- Filtering & Searching  
-- Mathematical Operations  
-
----
-
-### 🚀 Phase 3 — Pandas (In Progress)
-- Series & DataFrame  
-- Data Cleaning  
-- Handling Missing Values  
-- GroupBy Operations  
-- Data Analysis  
-
----
-
-## 🔜 Next Steps
-- Data Visualization (Matplotlib / Seaborn)  
-- Real-world Projects  
-- SQL Basics  
-
----
-
-## ⭐ Featured Projects
-
-📊 **Basic Statistics Projects**  
-https://github.com/25f2005869-glitch/basic-statistics-projects  
-
-🐍 **Python Fundamentals Practice**  
-https://github.com/25f2005869-glitch/python-fundamentals-practice  
-
-📅 **Daily Python Practice**  
-https://github.com/25f2005869-glitch/python--daily---practice  
-
-📊 **Excel Sales Dashboard**  
-https://github.com/25f2005869-glitch/excel-sales-dashboard-project  
-
-🏥 **Library Management System (Python)**  
-https://github.com/25f2005869-glitch/Library-Management-System  
-
-💊 **Pharmacy Billing System (Python)**  
-https://github.com/25f2005869-glitch/pharmacy-billing-system  
+🔹 [Basic Statistics Projects](https://github.com/25f2005869-glitch/basic-statistics-projects)  
+🔹 [Python Fundamentals Practice](https://github.com/25f2005869-glitch/python-fundamentals-practice)  
+🔹 [Daily Python Practice](https://github.com/25f2005869-glitch/python--daily---practice)  
+🔹 [Excel Sales Dashboard](https://github.com/25f2005869-glitch/excel-sales-dashboard-project)  
+🔹 [Library Management System](https://github.com/25f2005869-glitch/Library-Management-System)  
+🔹 [Pharmacy Billing System](https://github.com/25f2005869-glitch/pharmacy-billing-system)  
 
 ---
 
 ## 📜 Certifications
 
-🎓 **Work Smarter with Microsoft Excel — Coursera**  
-📅 January 2026 | 📊 Score: 96.40%  
-
+🎓 Work Smarter with Microsoft Excel — Coursera  
+📊 Score: 96.40%  
 🔗 https://www.coursera.org/account/accomplishments/verify/Y70M212V1374  
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Analytics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=25f2005869-glitch&show_icons=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=25f2005869-glitch&show_icons=true&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=25f2005869-glitch&theme=tokyonight"/>
+</p>
 
-![Streak](https://streak-stats.demolab.com?user=25f2005869-glitch)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=25f2005869-glitch)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=25f2005869-glitch&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-## 📅 Progress
+## 🔥 Progress
 
-- 📌 Daily coding practice  
-- 📌 Structured learning path  
-- 📌 Version-controlled development  
-- 🔥 **Day 93+ coding streak**  
+- ✅ Daily coding practice  
+- ✅ Structured learning path  
+- ✅ Version control discipline  
+- 🔥 100+ Days Coding Streak  
 
 ---
 
 ## 🎯 Goal
 
-To build strong programming fundamentals and transition into Data Analysis & Machine Learning.
+To become a **Data Analyst** and transition into **Machine Learning** with strong fundamentals.
 
 ---
 
-## ⭐ Learning Philosophy
+## ⭐ Philosophy
 
-- Consistency > Perfection  
-- Clarity > Speed
+> Consistency > Perfection  
+> Clarity > Speed  
+> Discipline = Success  
+
+---
+
+## 🤝 Connect With Me
+
+📧 Email: (25f2005869@ds.study.iitm.ac.in)  
+🔗 LinkedIn: (in/saloni-tiwari-b15780373)
+
+---
+
+<p align="center">
+  🔥 Building in public | Growing every day 🚀
+</p>
