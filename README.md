@@ -136,7 +136,9 @@ Weekly Python fundamentals and problem-solving practice repository.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=25f2005869-glitch&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
+
 https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=25f2005869-glitch&theme=tokyonight
+
 ---
 
 # 🎯 Goal
