@@ -127,7 +127,6 @@ Weekly Python fundamentals and problem-solving practice repository.
 
 # 📈 GitHub Analytics
 
-# 📈 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=25f2005869-glitch&show_icons=true&theme=tokyonight"/>
