@@ -1,237 +1,352 @@
-<!-- ===================== HEADER ===================== -->
+# 👋 Hi, I'm Saloni Tiwari
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9FF&height=240&section=header&text=Saloni%20Tiwari&fontSize=48&fontAlignY=35&desc=Data%20Analytics%20|%20Statistics%20|%20Economics&descAlignY=55&animation=fadeIn"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00C9FF&center=true&vCenter=true&width=900&lines=IIT+Madras+BS+Data+Science+Student;Data+Analytics+%26+Statistics+Enthusiast;Building+Analytics+Projects+with+Python;Economics+%7C+Visualization+%7C+Research;Learning+Through+Projects+Every+Day"/>
-</p>
+🎓 IIT Madras BS Degree in Data Science and Applications
+🎓 Foundation Level Completed (2026)
+📚 Currently Enrolled in Diploma Level
+🎓 B.Sc Mathematics Student
 
 ---
 
-# 👋 About Me
+## 🌟 About Me
 
-🎓 IIT Madras BS Degree in Data Science and Applications  
-📍 India
+I am a Data Science student with a strong interest in Statistics, Data Analytics, Economics, Databases, and Machine Learning.
 
-I am passionate about Data Analytics, Statistics, Economics, and Data Visualization.
+My learning approach focuses on understanding concepts through structured practice, projects, documentation, and continuous experimentation.
 
-My learning approach focuses on building practical projects that combine analytical thinking, statistical reasoning, visualization, and real-world problem solving.
+Most of my repositories are designed as learning journeys where I document concepts, practice problems, mini-projects, notes, and implementations.
 
-I enjoy transforming data into insights through Python, Statistics, Dashboards, and Analytics Projects.
-
----
-
-# 🎓 Academic Journey
-
-- IIT Madras BS Degree in Data Science and Applications
-- Foundation Level Completed
-- Preparing for Diploma Level Courses
-- Building project-based expertise in:
-  - Python
-  - Statistics
-  - Data Analytics
-  - Databases
-  - Machine Learning
+I believe in building strong fundamentals before moving toward advanced topics and research.
 
 ---
 
-# 🔥 Tech Stack
+## 🎓 Academic Journey
 
-<p align="center">
+### IIT Madras BS Degree in Data Science and Applications
 
-![Python](https://img.shields.io/badge/Python-Core-blue?style=for-the-badge&logo=python)
-![Excel](https://img.shields.io/badge/Excel-Dashboard-green?style=for-the-badge&logo=microsoft-excel)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-orange?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green?style=for-the-badge&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blue?style=for-the-badge)
-![Statistics](https://img.shields.io/badge/Statistics-Applied-purple?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red?style=for-the-badge&logo=streamlit)
-![Plotly](https://img.shields.io/badge/Plotly-Interactive-purple?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-Version%20Control-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-Editor-blue?style=for-the-badge&logo=visualstudiocode)
+* Foundation Level Completed
+* Currently pursuing Diploma Level
+* Focus Areas:
 
-</p>
+  * Python
+  * Statistics
+  * Data Analytics
+  * Databases
+  * Machine Learning
 
----
+### B.Sc Mathematics
 
-# 🎯 Current Focus
-
-- 🐼 Advanced Pandas
-- 📊 Statistics Projects
-- 📈 Data Visualization
-- 🗄 SQL & Databases
-- 🌐 Streamlit Dashboards
-- 🇮🇳 India Growth Dashboard Series
-- 📚 IIT Madras Diploma Preparation
+* Magadh University
+* Semester I Completed
+* SGPA: 8.00
+* Grade: A
 
 ---
 
-# 🚀 Featured Projects
+## 🔥 Technical Skills
 
-## 🇮🇳 India Growth Dashboard Series
+### Programming
 
-A growing analytics project series exploring major economic reforms, policy changes, governance initiatives, financial crises, and development indicators that shaped modern India.
+* Python
+* SQL
+
+### Data Analysis
+
+* Pandas
+* NumPy
+
+### Data Visualization
+
+* Matplotlib
+* Plotly
+* Excel Dashboards
+
+### Database Systems
+
+* SQL
+* SQLite
+* Database Design
+* Normalization
+* Query Optimization
+
+### Machine Learning
+
+* Scikit-Learn
+* Regression Models
+* Classification Basics
+* Model Evaluation
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* Google Colab
+* Jupyter Notebook
+
+---
+
+# 📚 Major Learning Repositories
+
+## 🐍 Python Daily Practice & Data Science Learning
+
+A structured repository covering:
+
+* Python Fundamentals
+* Problem Solving
+* NumPy
+* Pandas
+* Matplotlib
+* SQL
+* Machine Learning Foundations
+
+Purpose:
+
+To build consistency through daily coding practice and gradual progression toward Data Science.
+
+---
+
+## 📘 Foundation Learning Journey
+
+Repository containing:
+
+* IIT Madras Foundation Practice
+* Assignments
+* Quiz Preparation
+* Mock Tests
+* OPPE Preparation
+
+Purpose:
+
+To maintain a complete academic record of Foundation Level learning.
+
+---
+
+## 🗄 DBMS for Data Science
+
+An 81-day learning repository covering:
+
+* ER Model
+* Relational Model
+* Keys
+* Functional Dependencies
+* Normalization
+* Transactions
+* Indexing
+* Query Processing
+* Query Optimization
+
+Purpose:
+
+To build strong database foundations for Data Science and Analytics.
+
+---
+
+## 📊 SQL for Data Science
+
+A 35-day SQL learning journey covering:
+
+* SQL Basics
+* Joins
+* Subqueries
+* Window Functions
+* CTEs
+* Views
+* Indexes
+* Transactions
+* Analytics Queries
+
+Includes multiple SQL mini-projects and analytical exercises.
+
+---
+
+## 📈 Basic Statistics Projects
+
+Projects developed as part of Statistics learning.
 
 Topics include:
 
-- 1991 Economic Reforms
-- SEBI Formation
-- Capital Market Reforms
-- FRBM Act
-- GST
-- Financial Inclusion
-- Corporate Governance Reforms
-- Economic Policy Analytics
+* Descriptive Statistics
+* Covariance Analysis
+* Monte Carlo Simulation
+* Normal Distribution
+* Central Limit Theorem
+* Trend Analysis
 
-Technologies:
+Purpose:
 
-Python • Pandas • Statistics • Economics • Visualization • Analytics
+To understand statistical concepts through practical implementation.
 
 ---
 
-## 📊 Basic Statistics Projects
+## 🇮🇳 Foundational Economics Series
 
-Mini-projects covering:
+Economics analytics project series covering:
 
-- Descriptive Statistics
-- Probability
-- Monte Carlo Simulation
-- Central Limit Theorem
-- Trend Analysis
-- Normal Distribution
+* Barter System
+* Money & Currency
+* Banking
+* Inflation
+* Taxation
+* Fiscal Deficit
+* Monetary Policy
+* Trade
+* GDP
 
-🔗 https://github.com/25f2005869-glitch/basic-statistics-projects
+Purpose:
 
----
-
-## 📈 Sales Data Analysis Project
-
-Business analytics project using:
-
-- Python
-- Pandas
-- Matplotlib
-
-Features:
-
-- Monthly Sales Analysis
-- Trend Visualization
-- Performance Insights
-- Data Exploration
-
-🔗 https://github.com/25f2005869-glitch/sales_data_analysis_project
+To connect economics concepts with data analysis and visualization.
 
 ---
 
-## 📉 Excel Sales Dashboard
+## 🇮🇳 India Economic Reforms Series
 
-Interactive dashboard built using:
+Analytics projects based on major economic events and reforms in India.
 
-- Pivot Tables
-- KPI Tracking
-- Dynamic Charts
-- Business Reporting
+Topics include:
 
-🔗 https://github.com/25f2005869-glitch/excel-sales-dashboard-project
+* 1991 Economic Crisis
+* SEBI Formation
+* Tax Reforms
+* WTO Membership
+* FRBM Act
+* Financial Sector Reforms
+* Global Financial Crisis
+* Economic Policy Changes
 
----
+Purpose:
 
-## 💻 Python Fundamentals Practice
-
-Repository dedicated to:
-
-- Core Python
-- Problem Solving
-- Logic Building
-- Weekly Coding Exercises
-
-🔗 https://github.com/25f2005869-glitch/python-fundamentals-practice
+To study India's economic transformation through data and analytics.
 
 ---
 
-# 🏆 Highlights
+# 🏅 Certifications
 
-- 🎓 IIT Madras BS Data Science Student
-- 📊 Multiple Analytics Projects Completed
-- 📈 Dashboard Development Experience
-- 🧠 Consistent Project-Based Learning
-- 🐍 Python & Statistics Practice
-- 🇮🇳 Economics and Policy Analytics Projects
+### Learn SQL Basics for Data Science Specialization
+
+University of California, Davis
+
+https://www.coursera.org/account/accomplishments/specialization/0T94MBWJ9H0V
 
 ---
 
-# 📜 Certifications
+### Microsoft 365 Essentials: Create, Collaborate and Deliver
 
-### 🎓 Work Smarter with Microsoft Excel — Coursera
+Microsoft
 
-Score: **96.40%**
+https://www.coursera.org/account/accomplishments/specialization/2M4OIYTMWEO5
 
-🔗 https://www.coursera.org/account/accomplishments/verify/Y70M212V1374
+---
+
+### Work Smarter with Microsoft Excel
+
+Microsoft
+
+https://www.coursera.org/account/accomplishments/verify/Y70M212V1374
+
+---
+
+### Excel Skills for Business: Essentials
+
+Macquarie University
+
+https://www.coursera.org/account/accomplishments/verify/TJHR51MBNFDH
+
+---
+
+### Introduction to Data Analytics
+
+https://www.coursera.org/account/accomplishments/verify/VI27W7N2GU8U
+
+---
+
+# 🧩 Problem Solving
+
+Currently practicing:
+
+* LeetCode
+* SQL 50
+* LeetCode 75
+* Python Logic Building
+
+Focus Areas:
+
+* Arrays
+* Strings
+* Hash Maps
+* Two Pointers
+* Recursion
+* Trees
+* Dynamic Programming
 
 ---
 
 # 🔬 Research Interests
 
-- Data Analytics
-- Statistics
-- Economics
-- Public Policy Analytics
-- Governance Analytics
-- Data Visualization
-- Machine Learning
-- Computational Social Science
-- Educational Analytics
+My long-term interests include:
+
+* Statistics
+* Data Analytics
+* Economics
+* Public Policy Analytics
+* Educational Analytics
+* Machine Learning
+* Data Visualization
+* Database Systems
 
 ---
 
-# 📈 GitHub Analytics
+# 🎯 Current Learning Roadmap
 
-<p align="center">
+Completed:
 
-<img src="https://github-readme-stats.vercel.app/api?username=25f2005869-glitch&show_icons=true&theme=tokyonight"/>
+* IITM Foundation Level
+* Python Fundamentals
+* Statistics 1
+* Statistics 2
+* SQL Foundations
 
-<img src="https://streak-stats.demolab.com?user=25f2005869-glitch&theme=tokyonight"/>
+Currently Learning:
 
-</p>
+* DBMS
+* Pandas
+* NumPy
+* Data Visualization
+* LeetCode
 
-<p align="center">
+Future Focus:
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=25f2005869-glitch&theme=tokyonight"/>
+* Machine Learning
+* Deep Learning
+* Research Projects
+* Advanced Analytics
+* Public Policy Analytics
 
-</p>
+---
+
+# 🌟 Learning Philosophy
+
+* Consistency beats intensity.
+* Understanding beats memorization.
+* Documentation improves learning.
+* Projects strengthen concepts.
+* Practice builds confidence.
 
 ---
 
 # 🎯 Long-Term Goal
 
-To become an educator and researcher in Data Science, Statistics, Economics, and Public Policy Analytics while contributing through analytical frameworks, educational resources, and data-driven projects.
+To become a teacher, researcher, and data professional who contributes to education, analytics, statistics, economics, and public policy through practical projects and research-driven learning.
 
 ---
 
-# 💡 Learning Philosophy
+## 📫 Connect With Me
 
-> Consistency beats intensity.
->
-> Understanding beats memorization.
->
-> Data becomes valuable only when transformed into insight.
+Email:
+[25f2005869@ds.study.iitm.ac.in](mailto:25f2005869@ds.study.iitm.ac.in)
 
----
-
-# 🤝 Connect With Me
-
-📧 Email: 25f2005869@ds.study.iitm.ac.in
-
-🔗 LinkedIn
-
+LinkedIn:
 https://www.linkedin.com/in/saloni-tiwari-b15780373/
 
 ---
 
-<p align="center">
-🚀 Learning, Building, and Improving Through Projects Every Day
-</p>
+⭐ Learning • Building • Documenting • Improving Every Day
