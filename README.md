@@ -19,6 +19,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Data+Science+Student;Mathematics+%2B+Data+Science;Python+%7C+SQL+%7C+Statistics;Learning+%7C+Building+%7C+Documenting" />
+</p>
+
 # 🌟 About Me
 
 I am a Data Science student with a strong interest in Mathematics, programming, statistics, databases, data analysis, and machine learning.
